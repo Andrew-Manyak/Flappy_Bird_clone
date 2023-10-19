@@ -4,6 +4,8 @@
 import pygame
 from sys import exit
 import random
+![image](https://github.com/Andrew-Manyak/Flappy_Bird_clone/assets/118578713/da6f12fe-0b3a-49d1-afc1-cdc9d8da7ca2)
+
 
 uses pygame to create flappy bird clone
 # Refresh rate and window size
